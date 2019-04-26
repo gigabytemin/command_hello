@@ -1,5 +1,7 @@
 //For command line git tutorial
-//Local repository modification
+//First: GitHub Modification
+//Second:Local repository modification
+>>>>>>> origin/master
 
 print("Hello world")
 print("tell your world")
